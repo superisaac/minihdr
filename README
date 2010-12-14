@@ -1,3 +1,7 @@
 minihdr: An easy to use command line tool to make HDR images
 
 type minihdr -h for usage
+
+= Prerequirements = 
+ -  libgd from http://www.libgd.org
+
